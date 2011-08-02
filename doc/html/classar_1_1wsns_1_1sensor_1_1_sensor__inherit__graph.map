@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classar_1_1wsns_1_1sensor_1_1_anemometer.html" title="ar.wsns.sensor.Anemometer" alt="" coords="213,5,403,35"/>
+<area shape="rect" id="node5" href="$classar_1_1wsns_1_1sensor_1_1_hygrometer.html" title="ar.wsns.sensor.Hygrometer" alt="" coords="217,59,399,88"/>
+<area shape="rect" id="node7" href="$classar_1_1wsns_1_1sensor_1_1_pluviometer.html" title="ar.wsns.sensor.Pluviometer" alt="" coords="216,112,400,141"/>
+<area shape="rect" id="node9" href="$classar_1_1wsns_1_1sensor_1_1_thermometer.html" title="ar.wsns.sensor.Thermometer" alt="" coords="212,165,404,195"/>
+<area shape="rect" id="node11" href="$classar_1_1wsns_1_1sensor_1_1_weather_vane.html" title="ar.wsns.sensor.WeatherVane" alt="" coords="211,219,405,248"/>
+</map>

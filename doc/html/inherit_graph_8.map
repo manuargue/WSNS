@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classar_1_1wsns_1_1core_1_1_node.html" title="Represents a node that is part of a network." alt="" coords="7,32,137,61"/>
+<area shape="rect" id="node3" href="$classar_1_1wsns_1_1core_1_1_base_station.html" title="Represents a base station that is part of a network." alt="" coords="188,5,359,35"/>
+<area shape="rect" id="node5" href="$classar_1_1wsns_1_1core_1_1_station.html" title="Represents a weather station that is part of a network." alt="" coords="203,59,344,88"/>
+</map>
