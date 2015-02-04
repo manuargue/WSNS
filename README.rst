@@ -1,6 +1,6 @@
 WSNS: Weather Stations Network Simulator
 ========================================
 
-Manuel Argüelles
+manu.argue
 
-PCII Final Project, UNS - 2011
+2011
