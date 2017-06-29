@@ -1,6 +1,8 @@
 WSNS: Weather Stations Network Simulator
 ========================================
 
-manu.argue
+Final project of undergraduate course, Universidad Nacional del Sur (UNS), Argentina.
 
-2011
+Manuel Argüelles - 2011
+Distribute under GPL v3 license
+
